@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/build",
+  "command": "C:\\TDM-GCC-64\\bin\\c++.exe  @CMakeFiles/monty.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\monty.dir\\src\\main.cpp.obj -c C:\\Users\\Windows\\Desktop\\fac\\l2\\c++\\projetl2_sfml\\src\\main.cpp",
+  "file": "C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/src/main.cpp",
+  "output": "CMakeFiles/monty.dir/src/main.cpp.obj"
+}
+]
