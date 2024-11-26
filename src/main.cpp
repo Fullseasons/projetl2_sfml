@@ -56,6 +56,7 @@ void drawPieChart(sf::RenderWindow &window, float stayPercentage, float switchPe
 
 
 
+
 int main() {
     sf::RenderWindow window(sf::VideoMode(800, 600), "Monty Hall Simulation"); //? Creation de la fenetre
 
@@ -64,6 +65,14 @@ int main() {
         cerr << "Erreur lors du chargement de la police." << endl;
         return -1;
     }
+
+    sf::Image icon;
+    if(!icon.loadFromFile("../assets/images/icon.png")){
+        cerr << "Erreure lors du chargement de l'icon"<<endl;
+        return -1;
+    }
+
+    window.setIcon(icon.getSize().x, icon.getSize().y,icon.getPixelsPtr());
 
 
     //? Partie des textes pour choix seed, porte, interation
