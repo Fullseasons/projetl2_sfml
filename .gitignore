@@ -1,4 +1,4 @@
 build
 cmake_modules
 .vscode
-CmakeList.txt
+CMakeLists.txt
