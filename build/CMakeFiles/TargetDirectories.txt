@@ -1,5 +1,0 @@
-C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/build/CMakeFiles/monty.dir
-C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/build/CMakeFiles/package.dir
-C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/build/CMakeFiles/package_source.dir
-C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/build/CMakeFiles/edit_cache.dir
-C:/Users/Windows/Desktop/fac/l2/c++/projetl2_sfml/build/CMakeFiles/rebuild_cache.dir
